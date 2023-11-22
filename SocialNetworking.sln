@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialNetworking", "SocialNetworking\SocialNetworking.csproj", "{1EBE5744-5B09-4B14-8DA4-54875F9DFFD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocialNetworking", "SocialNetworking\SocialNetworking.csproj", "{1EBE5744-5B09-4B14-8DA4-54875F9DFFD7}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{0F346504-3D15-44C3-8AE7-6E72728CE165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1EBE5744-5B09-4B14-8DA4-54875F9DFFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBE5744-5B09-4B14-8DA4-54875F9DFFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBE5744-5B09-4B14-8DA4-54875F9DFFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F346504-3D15-44C3-8AE7-6E72728CE165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F346504-3D15-44C3-8AE7-6E72728CE165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F346504-3D15-44C3-8AE7-6E72728CE165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F346504-3D15-44C3-8AE7-6E72728CE165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
